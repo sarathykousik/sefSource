@@ -1,5 +1,5 @@
 function [cfg] = ft_multiplotER(cfg, varargin)
-
+% Adapted : Kousik Sarathy Sridharan 22-06-2016
 % FT_MULTIPLOTER plots the event-related potentials, event-related fields 
 % or oscillatory activity (power or coherence) versus frequency. Multiple
 % datasets can be overlayed.  The plots are arranged according to their
