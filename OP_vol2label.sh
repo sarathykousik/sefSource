@@ -1,5 +1,5 @@
 #! /bin/bash
-
+## author: andreas
 printf "\n\n\n##### \nWARNING! Have you thresholded your volumes? \nIf not, you may get some overlaps between your labels. \nUse tksurfer or the like to check this (see closing comment for more info on tksurfer). \n##### \n\n\n"
 
 
